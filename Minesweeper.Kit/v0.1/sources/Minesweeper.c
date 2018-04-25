@@ -6,7 +6,7 @@
 (C) 2012-2018 Manuel Sainz de Baranda y Goñi. /__/
 Released under the terms of the GNU Lesser General Public License v3. */
 
-#include <Z/functions/base/Z2DValue.h>
+#include <Z/functions/base/Z2D.h>
 #include <Z/macros/pointer.h>
 
 #ifndef MINESWEEPER_STATIC
